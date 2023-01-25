@@ -5,12 +5,14 @@ i will write on bioinformatics workshop we have had from 23rd January2023 t0 27t
 # Day 1
 **installation if tools**
 
-*install Gitbash*
+**install Gitbash*
 *install R and R-studios*
 
 
 # Day2
-*introduction to commandline*
+**introduction to commandline*
+Introducing the Shell
+
 
 # Day 3
-*introduction to Git*
+**introduction to Git*
